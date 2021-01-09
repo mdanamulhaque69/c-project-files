@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1604162505 source:e:\c\stack learner\frist project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1604164969 source:e:\c\stack learner\frist project\variable.c
+	<stdio.h>
+
